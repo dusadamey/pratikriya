@@ -7,5 +7,6 @@
 ---
 Title: Pratikriya
 Prgramming Language: JAVA
-Author: Amey Dusad
+Author: Dhiraj Chavan
 ---
+
